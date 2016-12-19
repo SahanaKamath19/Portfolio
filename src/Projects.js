@@ -4,8 +4,8 @@ import './App.css';
 class Projects extends Component {
   render() {
     return (
-    <section className="Projects section-margin" id="project">
-        <h2 className="Text text-center">PROJECTS</h2>
+    <section className="Projects Background-white section-margin" id="project">
+        <h2 className="Text text-center Font-header">PROJECTS</h2>
 
         <div className="Project-2 container section-margin">
             <h3>Qzam</h3>

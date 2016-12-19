@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-//import logo from './logo.svg';
 import './App.css';
 import Header from './Header.js';
 import Projects from './Projects.js';
 import Skills from './Skills.js';
+import About from './About.js';
+import Contact from './Contact.js';
 
 class App extends Component {
   render() {
@@ -12,11 +13,11 @@ class App extends Component {
       <Header/>
       <Projects/>
       <Skills/>
+      <About/>
+      <Contact/>
       </div>
     );
   }
 }
 
 export default App;
-
-// <img src={logo} className="App-logo" alt="logo" />

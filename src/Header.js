@@ -13,8 +13,8 @@ constructor()
     return (
     <section className="section-margin">
       <header className="Home text-center" id="home">
-            <h1 className=" Name Text">Sahana Kamath</h1>
-            <h2 className=" Title Sub-text">Web Developer</h2>
+            <h1 className=" Name Text Font-header">Sahana Kamath</h1>
+            <h2 className=" Title Sub-text Font-sub-header">Web Developer</h2>
         </header>
 
         <nav className="nav-bar" hidden={this.state.display}>
