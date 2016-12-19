@@ -1,24 +1,25 @@
-.App {
-  text-align: center;
+.Header:focus{
+  text-decoration: none;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
+.Home{
   padding: 20px;
-  color: white;
+  margin-top: 15%;
 }
-
-.App-intro {
-  font-size: large;
+.Text{
+  color: #3d3d3d;
+  font-family: "Futura", Open Sans-serif;
 }
+.Sub-text{
+  font-family: "Open Sans", sans-serif;
+  color: azure;
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+}
+.Name{
+font-size: 6em;
+}
+.Title{
+font-size: 3em;
+}
+.Projects{
+  background: white;
 }
