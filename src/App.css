@@ -40,3 +40,9 @@ font-size: 3em;
 .form-style{
   margin-bottom: 10px;
 }
+.profilePhoto{
+    background-image: url(/static/media/Sahana.9c26353e.jpg);
+    height: 200px;
+    width: 150px;
+    background-size: 100% auto;
+}

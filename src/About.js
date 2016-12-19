@@ -8,10 +8,10 @@ class About extends Component {
       <h2 className="Text Font-header text-center">ABOUT ME</h2>
       <div className="container">
         <div className="row">
-          <div className="col-sm-4">
-        
+          <div className="col-sm-3">
+            <div className="profilePhoto img-circle"></div>
           </div>
-          <div className="col-sm-8">
+          <div className="col-sm-9">
               <p>I'm a Junior Web Developer, and a recent graduate from the Web Development Course at Brainstation. Prior to grad school, I worked as a digital QA, and a junior frontend developer for a consulting company.
               </p>
               <p>
