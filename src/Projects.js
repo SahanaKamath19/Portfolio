@@ -5,7 +5,7 @@ class Projects extends Component {
   render() {
     return (
     <section className="Projects section-margin" id="project">
-        <h2 className="Text text-center">Projects</h2>
+        <h2 className="Text text-center">PROJECTS</h2>
 
         <div className="Project-2 container section-margin">
             <h3>Qzam</h3>
