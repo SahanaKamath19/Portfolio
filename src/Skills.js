@@ -4,7 +4,7 @@ import './App.css';
 class Skills extends Component {
   render() {
     return (
-    <section className="Skills section-margin container" id="skill">
+    <section className="Skills Padding-style section-margin container" id="skill">
          <h2 className="Text text-center Font-header">SKILLS</h2>
          <h3 className="Sub-text Font-sub-header">LANGUAGES I KNOW</h3>
          <div className="section-margin">

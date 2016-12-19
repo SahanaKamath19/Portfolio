@@ -1,7 +1,7 @@
 .Header:focus{
   text-decoration: none;
 }
-.Home{
+.Padding-style{
   padding: 20px;
 }
 .section-margin{
@@ -27,6 +27,9 @@ font-size: 3em;
 }
 .Background-white{
   background: white;
+}
+.Background-azure{
+  background: azure;
 }
 .Background-black{
   background: #3d3d3d;

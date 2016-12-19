@@ -4,7 +4,7 @@ import './App.css';
 class About extends Component {
   render() {
     return (
-      <div className="About section-margin Background-white" id="about">
+      <div className="About Padding-style section-margin Background-white" id="about">
       <h2 className="Text Font-header text-center">ABOUT ME</h2>
       <div className="container">
         <div className="row">

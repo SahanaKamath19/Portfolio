@@ -2,6 +2,9 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../public/image/background.jpg');
-  background-position: center top;
+  min-height:500px;
+   /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
   background-size: 100% auto;
 }
