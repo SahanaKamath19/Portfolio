@@ -3,7 +3,9 @@
 }
 .Home{
   padding: 20px;
-  margin-top: 15%;
+}
+.section-margin{
+  margin-top: 5%;
 }
 .Text{
   color: #3d3d3d;
@@ -12,7 +14,6 @@
 .Sub-text{
   font-family: "Open Sans", sans-serif;
   color: azure;
-
 }
 .Name{
 font-size: 6em;
@@ -22,4 +23,7 @@ font-size: 3em;
 }
 .Projects{
   background: white;
+}
+.nav-bar{
+  position:fixed;
 }

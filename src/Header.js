@@ -2,18 +2,40 @@ import React, { Component } from 'react';
 import './App.css';
 
 class Header extends Component {
+constructor()
+{
+    super();
+    this.state={
+        display:false
+    }
+}
   render() {
     return (
-    <section>
-    <header>
-        <a className="Header Text" href="#home">
-        <h3>SK</h3>
-        </a>
-    </header>
-      <section className="Home text-center" id="home">
+    <section className="section-margin">
+      <header className="Home text-center" id="home">
             <h1 className=" Name Text">Sahana Kamath</h1>
             <h2 className=" Title Sub-text">Web Developer</h2>
-        </section>
+        </header>
+
+        <nav className="nav-bar" hidden={this.state.display}>
+            <a className="Header Text" href="#home">
+            <h3 className="scrolling Header">SK</h3>
+            </a>
+            <ul>
+                <li>
+                <a href="#project">Project</a>
+                </li>
+                <li>
+                <a href="#skill">Skills</a>
+                </li>
+                <li>
+                <a href="#about">About Me</a>
+                </li>
+                <li>
+                <a href="#contact">Contact</a>
+                </li>
+            </ul>
+        </nav>
     </section>
     );
   }
