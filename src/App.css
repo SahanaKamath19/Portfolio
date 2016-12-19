@@ -2,10 +2,13 @@
   text-decoration: none;
 }
 .Padding-style{
-  padding: 20px;
+  padding: 60px;
 }
 .section-margin{
   margin-top: 5%;
+}
+.within-section-margin{
+  margin-top: 2%;
 }
 .Text{
   color: #3d3d3d;
@@ -45,4 +48,7 @@ font-size: 3em;
     height: 200px;
     width: 150px;
     background-size: 100% auto;
+}
+.Text-body-size{
+  font-size: 1.4em;
 }
