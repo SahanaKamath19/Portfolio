@@ -51,7 +51,12 @@ font-size: 3em;
 }
 .Text-body-size{
   font-size: 1.4em;
+  font-weight: lighter;
 }
 .Project4{
   background-color: #49274a;
+}
+.icon{
+  font-size: 2.8em;
+  padding:2%;
 }

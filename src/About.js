@@ -8,7 +8,7 @@ class About extends Component {
       <h2 className="Text Font-header text-center">ABOUT ME</h2>
       <div className="container within-section-margin Text">
         <div className="row">
-          <div className="col-sm-3">
+          <div className="col-sm-3 hidden-xs">
             <div className="profilePhoto img-circle center-block"></div>
           </div>
           <div className="col-sm-9 Font-sub-header">
