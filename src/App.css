@@ -32,7 +32,7 @@ font-size: 3em;
   background: white;
 }
 .Background-azure{
-  background: azure;
+  background: #EDEDED	;
 }
 .Background-black{
   background: #3d3d3d;
@@ -51,4 +51,7 @@ font-size: 3em;
 }
 .Text-body-size{
   font-size: 1.4em;
+}
+.Project4{
+  background-color: #49274a;
 }

@@ -11,7 +11,7 @@ class About extends Component {
           <div className="col-sm-3">
             <div className="profilePhoto img-circle center-block"></div>
           </div>
-          <div className="col-sm-9">
+          <div className="col-sm-9 Font-sub-header">
               <p className="Text-body-size">I'm a Junior Web Developer, and a recent graduate from the Web Development Course at Brainstation. Prior to grad school, I worked as a digital QA, and a junior frontend developer for a consulting company.
               </p>
               <p className="Text-body-size">

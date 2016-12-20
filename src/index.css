@@ -1,10 +1,6 @@
-body {
-  margin: 0;
-  padding: 0;
-  background-image: url('../public/image/background.jpg');
-  min-height:500px;
-   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-size: 100% auto;
+body{
+  background: url(/static/media/profile_background.be564be2.jpg) fixed 50% 50% no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
 }
