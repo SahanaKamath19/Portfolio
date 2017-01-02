@@ -12,9 +12,11 @@ constructor()
   render() {
     return (
     <section className="section-margin">
-      <header className="Home Padding-style text-center" id="home">
+      <header className="Home text-center" id="home">
+        <div className="Padding-style ">
             <h1 className=" Name Text Font-header">Sahana Kamath</h1>
             <h2 className=" Title Sub-text Font-sub-header">Web Developer</h2>
+        </div>
         </header>
 
         <nav className="nav-bar" hidden={this.state.display}>

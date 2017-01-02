@@ -4,10 +4,10 @@ import './App.css';
 class About extends Component {
   render() {
     return (
-      <div className="About Padding-style section-margin Background-white" id="about">
+      <div className="About Padding-style Background-white" id="about">
       <h2 className="Text Font-header text-center">ABOUT ME</h2>
       <div className="container within-section-margin Text">
-        <div className="row">
+        <div className="Padding-style row">
           <div className="col-sm-3 hidden-xs">
             <div className="profilePhoto img-circle center-block"></div>
           </div>

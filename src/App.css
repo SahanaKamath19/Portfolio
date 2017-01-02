@@ -2,7 +2,7 @@
   text-decoration: none;
 }
 .Padding-style{
-  padding: 60px;
+  padding: 5%;
 }
 .section-margin{
   margin-top: 5%;
@@ -44,7 +44,7 @@ font-size: 3em;
   margin-bottom: 10px;
 }
 .profilePhoto{
-    background-image: url(/static/media/Sahana.9c26353e.jpg);
+    background-image: url('../public/image/Sahana.jpg');
     height: 200px;
     width: 150px;
     background-size: 100% auto;
@@ -57,6 +57,5 @@ font-size: 3em;
   background-color: #49274a;
 }
 .icon{
-  font-size: 2.8em;
-  padding:2%;
+  font-size: 2.5em;
 }
