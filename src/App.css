@@ -53,8 +53,15 @@ font-size: 3em;
   font-size: 1.4em;
   font-weight: lighter;
 }
-.Project4{
+.imageSize{
+width:90%;
+height:auto;
+}
+.Project3{
   background-color: #49274a;
+}
+.Project1{
+  background-color: rgb(41,146,253);
 }
 .icon{
   font-size: 2.5em;
